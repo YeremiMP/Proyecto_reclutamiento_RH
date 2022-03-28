@@ -1,0 +1,12 @@
+C:\Users\yerem\source\repos\reclutamiento y seleccion de RH\reclutamiento y seleccion de RH\bin\Debug\reclutamiento y seleccion de RH.exe.config
+C:\Users\yerem\source\repos\reclutamiento y seleccion de RH\reclutamiento y seleccion de RH\bin\Debug\reclutamiento y seleccion de RH.exe
+C:\Users\yerem\source\repos\reclutamiento y seleccion de RH\reclutamiento y seleccion de RH\bin\Debug\reclutamiento y seleccion de RH.pdb
+C:\Users\yerem\source\repos\reclutamiento y seleccion de RH\reclutamiento y seleccion de RH\obj\Debug\reclutamiento y seleccion de RH.csproj.AssemblyReference.cache
+C:\Users\yerem\source\repos\reclutamiento y seleccion de RH\reclutamiento y seleccion de RH\obj\Debug\reclutamiento_y_seleccion_de_RH.Form1.resources
+C:\Users\yerem\source\repos\reclutamiento y seleccion de RH\reclutamiento y seleccion de RH\obj\Debug\reclutamiento_y_seleccion_de_RH.Properties.Resources.resources
+C:\Users\yerem\source\repos\reclutamiento y seleccion de RH\reclutamiento y seleccion de RH\obj\Debug\reclutamiento y seleccion de RH.csproj.GenerateResource.cache
+C:\Users\yerem\source\repos\reclutamiento y seleccion de RH\reclutamiento y seleccion de RH\obj\Debug\reclutamiento y seleccion de RH.csproj.CoreCompileInputs.cache
+C:\Users\yerem\source\repos\reclutamiento y seleccion de RH\reclutamiento y seleccion de RH\obj\Debug\reclutamiento y seleccion de RH.exe
+C:\Users\yerem\source\repos\reclutamiento y seleccion de RH\reclutamiento y seleccion de RH\obj\Debug\reclutamiento y seleccion de RH.pdb
+C:\Users\yerem\source\repos\reclutamiento y seleccion de RH\reclutamiento y seleccion de RH\obj\Debug\reclutamiento_y_seleccion_de_RH.Form2.resources
+C:\Users\yerem\source\repos\reclutamiento y seleccion de RH\reclutamiento y seleccion de RH\obj\Debug\reclutamiento_y_seleccion_de_RH.Form3.resources
