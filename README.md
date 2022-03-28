@@ -11,6 +11,8 @@
 - Gestion de Experiencia Laboral
 - Facturacion de articulos
 
+![image](https://user-images.githubusercontent.com/85116554/160457030-85b8d7d9-8437-4fd7-bc33-c6218d02805c.png)
+![image](https://user-images.githubusercontent.com/85116554/160457130-9f7c4b12-13e1-44f2-8599-cc8587e696d4.png)
 
  
 
